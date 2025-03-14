@@ -1,0 +1,8 @@
+{
+  "login": "Login",
+  "username": "Username",
+  "phoneNumber": "Phone Number",
+  "password": "Password",
+  "usernameEmpty": "The username must not be left blank",
+  "passwordEmpty": "Password can not be blank"
+}
